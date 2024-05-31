@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.icloud
+*.DS_Store
+
+* [1-9].*
